@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f5b7266.css",
-    "main.js": "/static/js/main.266dccbe.js",
-    "static/media/profilePicture.jpg": "/static/media/profilePicture.2084fcd7413f183e09e7.jpg",
-    "static/media/forest.jpg": "/static/media/forest.32c67943f0e22e812065.jpg",
-    "static/media/PrintProjeto01.png": "/static/media/PrintProjeto01.fc70d6dffd7129062881.png",
-    "static/media/PrintProjeto03.png": "/static/media/PrintProjeto03.43d6c6e253920e482a0a.png",
-    "static/media/PrintProjeto02.png": "/static/media/PrintProjeto02.43638bb3fa6e813f7a1e.png",
-    "static/media/PrintProjeto04.png": "/static/media/PrintProjeto04.5efa65b40334b00b867b.png",
-    "static/media/Logo2Branca.png": "/static/media/Logo2Branca.39c165aef0f8da5b4bbd.png",
-    "index.html": "/index.html",
-    "main.7f5b7266.css.map": "/static/css/main.7f5b7266.css.map",
-    "main.266dccbe.js.map": "/static/js/main.266dccbe.js.map"
+    "main.css": "/guilhermehelton/Portifolio.git/static/css/main.e97483c4.css",
+    "main.js": "/guilhermehelton/Portifolio.git/static/js/main.2e6b58f8.js",
+    "static/media/profilePicture.jpg": "/guilhermehelton/Portifolio.git/static/media/profilePicture.2084fcd7413f183e09e7.jpg",
+    "static/media/forest.jpg": "/guilhermehelton/Portifolio.git/static/media/forest.32c67943f0e22e812065.jpg",
+    "static/media/PrintProjeto01.png": "/guilhermehelton/Portifolio.git/static/media/PrintProjeto01.fc70d6dffd7129062881.png",
+    "static/media/PrintProjeto03.png": "/guilhermehelton/Portifolio.git/static/media/PrintProjeto03.43d6c6e253920e482a0a.png",
+    "static/media/PrintProjeto02.png": "/guilhermehelton/Portifolio.git/static/media/PrintProjeto02.43638bb3fa6e813f7a1e.png",
+    "static/media/PrintProjeto04.png": "/guilhermehelton/Portifolio.git/static/media/PrintProjeto04.5efa65b40334b00b867b.png",
+    "static/media/Logo2Branca.png": "/guilhermehelton/Portifolio.git/static/media/Logo2Branca.39c165aef0f8da5b4bbd.png",
+    "index.html": "/guilhermehelton/Portifolio.git/index.html",
+    "main.e97483c4.css.map": "/guilhermehelton/Portifolio.git/static/css/main.e97483c4.css.map",
+    "main.2e6b58f8.js.map": "/guilhermehelton/Portifolio.git/static/js/main.2e6b58f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f5b7266.css",
-    "static/js/main.266dccbe.js"
+    "static/css/main.e97483c4.css",
+    "static/js/main.2e6b58f8.js"
   ]
 }
