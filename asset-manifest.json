@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f5b7266.css",
+    "main.css": "/static/css/main.9a8292fd.css",
     "main.js": "/static/js/main.266dccbe.js",
     "static/media/profilePicture.jpg": "/static/media/profilePicture.2084fcd7413f183e09e7.jpg",
     "static/media/forest.jpg": "/static/media/forest.32c67943f0e22e812065.jpg",
@@ -10,11 +10,11 @@
     "static/media/PrintProjeto04.png": "/static/media/PrintProjeto04.5efa65b40334b00b867b.png",
     "static/media/Logo2Branca.png": "/static/media/Logo2Branca.39c165aef0f8da5b4bbd.png",
     "index.html": "/index.html",
-    "main.7f5b7266.css.map": "/static/css/main.7f5b7266.css.map",
+    "main.9a8292fd.css.map": "/static/css/main.9a8292fd.css.map",
     "main.266dccbe.js.map": "/static/js/main.266dccbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f5b7266.css",
+    "static/css/main.9a8292fd.css",
     "static/js/main.266dccbe.js"
   ]
 }
